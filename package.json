@@ -1,0 +1,15 @@
+{
+  "name": "kgw-nodeexpress",
+  "version": "1.0.0",
+  "description": "basic node express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KGW",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  }
+}
